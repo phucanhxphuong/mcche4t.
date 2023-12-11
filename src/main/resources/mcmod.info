@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PhucAnhChe4t",
+  "name": "PhucAnhChe4t",
+  "description": "A 1.12.2 Anarchy Client.",
+  "version": "1.8.6",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PhucAnhChe4t"],
+  "credits": "Phobos",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
